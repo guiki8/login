@@ -1,0 +1,82 @@
+.tela{
+    height: 450px;
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+    background-image: radial-gradient(circle at 85.36% -11.24%, #ffb728 0, #ffa935 8.33%, #ff993f 16.67%, #ff8947 25%, #ff774d 33.33%, #ff6551 41.67%, #f25353 50%, #dc4253 58.33%, #c83454 66.67%, #b62954 75%, #a62055 83.33%, #981a57 91.67%, #8b1859 100%);;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+.box{
+    font-size: 20px;
+    width: 60%;
+    height: 30px;
+    margin: 5px;
+    margin-left: 20%;
+    padding: 5px;
+    border-radius: 10px;
+    border: solid black 4px;
+    background-color: transparent;
+}
+#nome{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: solid black 2px;
+    background-color: transparent;
+}
+#senha{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: solid black 2px;
+    background-color: transparent;
+}
+#email{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: solid black 2px;
+    background-color: transparent;
+}
+#enviar{
+    font-weight: bolder;
+    font-size: 20px;
+    height: 60px;
+    width: 20%;
+    float: right;
+    margin-top: 30px;
+    margin-right: 40%;
+    border-radius: 10px;
+    border: solid black 4px;
+    background-color: transparent;
+}
+b{
+    margin-left: 10px;
+}
+.lembrar{
+    float: left;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.esquecer{
+    float: right;
+    margin-right: 20%;
+    margin-top: 10px;
+}
+.title{
+    width: 80%;
+    padding: 10px;
+    margin-left: 10%;
+    font-size: 30px;
+    border-bottom: 4px solid black;
+}
+.texto{
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    font-size: 20px;
+}
